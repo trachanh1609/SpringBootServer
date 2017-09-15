@@ -1,0 +1,8 @@
+
+<ul>
+  <li th:each="student : ${studentlist}">
+    <span th:text="${student.first}">First</span>
+    <span th:text="${student.last}">Last</span>
+    <span th:text="${student.email}">Email</span>
+  </li>
+</ul>
