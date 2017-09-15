@@ -1,9 +1,0 @@
-package haagahelia.course.hellothymeleaf.web;
-
-public class Student {
-
-	public Student(String first, String last, String email) {
-		// TODO Auto-generated constructor stub
-	}
-
-}
